@@ -1,0 +1,11 @@
+Package: squareIt
+Type: Package
+Title: Calculating The Square of a Number
+Version: 0.2-1
+Date: 2018-11-03
+Author: Muege Oezluetiras [aut,cre]
+Maintainer: Muege Oezluetiras <mugeo@student.ethz.ch>
+Description: Includes the function squareIt() that calculates the square of a number.
+License: GPL (>=2)
+Depends: R (>= 3.1.0)
+URL: 
